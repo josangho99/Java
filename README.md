@@ -1,4 +1,4 @@
-</a href="https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#kakaoaccount">KakaoAccount</a>
+<a href="https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#kakaoaccount">KakaoAccount</a>
 <table>
 <thead>
 <tr>
